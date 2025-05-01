@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/generador-etiquetas/static/css/main.ef8fc415.css",
+    "main.js": "/generador-etiquetas/static/js/main.fcab052b.js",
+    "static/js/453.bebaa2d5.chunk.js": "/generador-etiquetas/static/js/453.bebaa2d5.chunk.js",
+    "index.html": "/generador-etiquetas/index.html",
+    "main.ef8fc415.css.map": "/generador-etiquetas/static/css/main.ef8fc415.css.map",
+    "main.fcab052b.js.map": "/generador-etiquetas/static/js/main.fcab052b.js.map",
+    "453.bebaa2d5.chunk.js.map": "/generador-etiquetas/static/js/453.bebaa2d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8fc415.css",
+    "static/js/main.fcab052b.js"
+  ]
+}
